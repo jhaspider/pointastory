@@ -2,7 +2,11 @@
 
 ## Planning tool for your scrum team – open-source ( FERN stack )
 
-[Demo on Medium](https://medium.com/@jha-amarjit/use-a-planning-poker-8f6110facb93)
+[Demo on medium.com](https://medium.com/@jha-amarjit/use-a-planning-poker-8f6110facb93)
+
+### Setup Instruction
+
+[Read it on medium.com](https://jha-amarjit.medium.com/setup-a-planning-tool-for-your-scrum-team-open-source-fern-stack-76a656414b09)
 
 ### Tech Stack :
 
