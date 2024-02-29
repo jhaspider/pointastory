@@ -1,0 +1,4 @@
+{
+  "captchSecret": "<YOUR_CAPTCHA_SECRET_KEY>",
+  "region": "<REGION>"
+}

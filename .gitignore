@@ -1,0 +1,12 @@
+node_modules
+*.log
+.DS_Store
+**/.DS_Store
+.DS_Store
+
+.vscode
+build/*
+src/settings.json
+functions/src/settings.json
+.firebase
+.firebaserc
